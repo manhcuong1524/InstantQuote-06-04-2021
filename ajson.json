@@ -1,0 +1,207 @@
+var product =  {
+      "id": 6585118949538,
+      "title": "RGB GPU BACKPLATE CUSTOMIZER",
+      "handle": "soul-of-the-brother-rgb-gpu-backplate",
+      "description": "\u003cp data-mce-fragment=\"1\"\u003e \u003c\/p\u003e\n\u003cdiv data-enviroment=\"Customizer\" data-product-id=\"6585118949538\" style=\"display: none;\" id=\"zakeke-product-tag\"\u003e\u003c\/div\u003e",
+      "published_at": "2021-03-11T20:30:31-08:00",
+      "created_at": "2021-03-11T20:30:29-08:00",
+      "vendor": "knightowllabs",
+      "type": "RGB GPU Backplate",
+      "tags": [
+            "backplate",
+            "gpu",
+            "nvidia"
+      ],
+      "price": 230300000,
+      "price_min": 230300000,
+      "price_max": 230300000,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+            {
+                  "id": 39391949389986,
+                  "title": "NVIDIA \/ GeForce RTX 3090",
+                  "option1": "NVIDIA",
+                  "option2": "GeForce RTX 3090",
+                  "option3": null,
+                  "sku": "Backplate0003",
+                  "requires_shipping": true,
+                  "taxable": true,
+                  "featured_image": null,
+                  "available": true,
+                  "name": "RGB GPU BACKPLATE CUSTOMIZER - NVIDIA \/ GeForce RTX 3090",
+                  "public_title": "NVIDIA \/ GeForce RTX 3090",
+                  "options": [
+                        "NVIDIA",
+                        "GeForce RTX 3090"
+                  ],
+                  "price": 230300000,
+                  "weight": 0,
+                  "compare_at_price": null,
+                  "inventory_management": "shopify",
+                  "barcode": "",
+                  "requires_selling_plan": false,
+                  "selling_plan_allocations": []
+            },
+            {
+                  "id": 39391949422754,
+                  "title": "NVIDIA \/ GeForce RTX 3080",
+                  "option1": "NVIDIA",
+                  "option2": "GeForce RTX 3080",
+                  "option3": null,
+                  "sku": "Backplate0004",
+                  "requires_shipping": true,
+                  "taxable": true,
+                  "featured_image": null,
+                  "available": true,
+                  "name": "RGB GPU BACKPLATE CUSTOMIZER - NVIDIA \/ GeForce RTX 3080",
+                  "public_title": "NVIDIA \/ GeForce RTX 3080",
+                  "options": [
+                        "NVIDIA",
+                        "GeForce RTX 3080"
+                  ],
+                  "price": 230300000,
+                  "weight": 0,
+                  "compare_at_price": null,
+                  "inventory_management": "shopify",
+                  "barcode": "",
+                  "requires_selling_plan": false,
+                  "selling_plan_allocations": []
+            },
+            {
+                  "id": 39507406356642,
+                  "title": "NVIDIA \/ 8000",
+                  "option1": "NVIDIA",
+                  "option2": "8000",
+                  "option3": null,
+                  "sku": "Backplate0008",
+                  "requires_shipping": true,
+                  "taxable": true,
+                  "featured_image": {
+                        "id": 28424260649122,
+                        "product_id": 6585118949538,
+                        "position": 3,
+                        "created_at": "2021-03-24T01:03:40-07:00",
+                        "updated_at": "2021-03-24T01:03:40-07:00",
+                        "alt": null,
+                        "width": 248,
+                        "height": 203,
+                        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download_1.jpg?v=1616573020",
+                        "variant_ids": [
+                              39507406356642
+                        ]
+                  },
+                  "available": true,
+                  "name": "RGB GPU BACKPLATE CUSTOMIZER - NVIDIA \/ 8000",
+                  "public_title": "NVIDIA \/ 8000",
+                  "options": [
+                        "NVIDIA",
+                        "8000"
+                  ],
+                  "price": 230300000,
+                  "weight": 0,
+                  "compare_at_price": null,
+                  "inventory_management": "shopify",
+                  "barcode": "",
+                  "featured_media": {
+                        "alt": null,
+                        "id": 20722530517154,
+                        "position": 3,
+                        "preview_image": {
+                              "aspect_ratio": 1.222,
+                              "height": 203,
+                              "width": 248,
+                              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download_1.jpg?v=1616573020"
+                        }
+                  },
+                  "requires_selling_plan": false,
+                  "selling_plan_allocations": []
+            }
+      ],
+      "images": [
+            "\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/Soul-of-the-Brother-White-RGB-Backplate-1-1.jpg?v=1615523432",
+            "\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download.jpg?v=1616572254",
+            "\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download_1.jpg?v=1616573020"
+      ],
+      "featured_image": "\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/Soul-of-the-Brother-White-RGB-Backplate-1-1.jpg?v=1615523432",
+      "options": [
+            "GPU Model",
+            "GPU Series"
+      ],
+      "media": [
+            {
+                  "alt": null,
+                  "id": 20496837083298,
+                  "position": 1,
+                  "preview_image": {
+                        "aspect_ratio": 1.0,
+                        "height": 1500,
+                        "width": 1500,
+                        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/Soul-of-the-Brother-White-RGB-Backplate-1-1.jpg?v=1615523432"
+                  },
+                  "aspect_ratio": 1.0,
+                  "height": 1500,
+                  "media_type": "image",
+                  "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/Soul-of-the-Brother-White-RGB-Backplate-1-1.jpg?v=1615523432",
+                  "width": 1500
+            },
+            {
+                  "alt": null,
+                  "id": 20722371625122,
+                  "position": 2,
+                  "preview_image": {
+                        "aspect_ratio": 1.163,
+                        "height": 208,
+                        "width": 242,
+                        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download.jpg?v=1616572254"
+                  },
+                  "aspect_ratio": 1.163,
+                  "height": 208,
+                  "media_type": "image",
+                  "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download.jpg?v=1616572254",
+                  "width": 242
+            },
+            {
+                  "alt": null,
+                  "id": 20722530517154,
+                  "position": 3,
+                  "preview_image": {
+                        "aspect_ratio": 1.222,
+                        "height": 203,
+                        "width": 248,
+                        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download_1.jpg?v=1616573020"
+                  },
+                  "aspect_ratio": 1.222,
+                  "height": 203,
+                  "media_type": "image",
+                  "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0552\/1735\/6962\/products\/download_1.jpg?v=1616573020",
+                  "width": 248
+            }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": "\u003cp data-mce-fragment=\"1\"\u003e \u003c\/p\u003e\n\u003cdiv data-enviroment=\"Customizer\" data-product-id=\"6585118949538\" style=\"display: none;\" id=\"zakeke-product-tag\"\u003e\u003c\/div\u003e"
+},
+"options_with_values": [
+      {
+            "name": "GPU Model",
+            "position": 1,
+            "values": [
+                  "NVIDIA"
+            ]
+      },
+      {
+            "name": "GPU Series",
+            "position": 2,
+            "values": [
+                  "GeForce RTX 3090",
+                  "GeForce RTX 3080",
+                  "8000"
+            ]
+      }
+],
+"selected_variant_id": 39391949389986
